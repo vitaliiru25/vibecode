@@ -1,0 +1,17 @@
+{
+  "name": "coffee-shop-website",
+  "version": "1.0.0",
+  "description": "A simple coffee shop website showcasing the menu, about us, and contact information.",
+  "main": "src/js/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
